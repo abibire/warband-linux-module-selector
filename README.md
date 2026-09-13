@@ -41,13 +41,3 @@ autodetection misses it:
   `steamapps`, otherwise via `mb_warband.sh`.
 
 Nothing in the game directory is modified.
-
-## Notes
-
-If the module list is empty, the DLC content probably isn't installed — check
-the DLC tab in the game's Steam properties.
-
-For Napoleonic Wars specifically, running Warband through Proton instead is
-worth considering: you get the real Windows launcher, and WSE2 (which many NW
-servers and mods expect) is Windows-only. Multiplayer is cross-platform either
-way.
